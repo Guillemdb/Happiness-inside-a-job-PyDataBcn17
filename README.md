@@ -6,7 +6,7 @@ This is the repository for the talk materials. It contains several example noteb
 
 This is still under construction, and we will be uploading aditional material during the next days. 
 
-#Index
+# Index
 
 ## [1. Introduction and database cleaning](https://github.com/Guillem-db/Happiness-inside-a-job-PyDataBcn17/blob/master/1%20-%20Introduction%20and%20database%20cleaning.ipynb)
 
